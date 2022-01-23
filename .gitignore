@@ -1,1 +1,3 @@
 lightning_logs/*
+best_model/*
+__pycache__
